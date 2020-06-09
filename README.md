@@ -45,8 +45,8 @@ app:
   port: 22011
 oss:
   end-point: "http://oss-cn-beijing-internal.aliyuncs.com"
-  access-key: "LTAI4G4Si17THrKKsUBSaLjK"
-  access-secret: "diU62DynYglYSmjhgeOJrPH2917Z6D"
+  access-key: ""
+  access-secret: ""
 commands:
   - name: ls
     exec: [echo]
@@ -61,8 +61,8 @@ app:
   port: 22001
 oss:
   end-point: "http://oss-cn-beijing-internal.aliyuncs.com"
-  access-key: "LTAI4G4Si17THrKKsUBSaLjK"
-  access-secret: "diU62DynYglYSmjhgeOJrPH2917Z6D"
+  access-key: ""
+  access-secret: ""
 commands:
   - name: ls
     exec: [echo]
